@@ -1,5 +1,5 @@
 project('tll-tls', 'c', 'cpp'
-	, version: '0.0.0'
+	, version: '0.1.0'
 	, license: 'MIT'
 	, default_options: ['cpp_std=c++2a', 'werror=true', 'optimization=2']
 )

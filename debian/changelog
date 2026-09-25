@@ -1,3 +1,10 @@
+tll-tls (0.1.0) unstable; urgency=medium
+
+  * Cleanup and improve logging
+  * Socket timestamping support
+
+ -- Pavel Shramov <shramov@mexmat.net>  Fri, 25 Sep 2026 13:18:48 +0300
+
 tll-tls (0.0.0) unstable; urgency=medium
 
   * Initial release.
